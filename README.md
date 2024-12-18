@@ -6,7 +6,7 @@
 
 ### Sobre mí
 
-Soy estudiante de Ingeniería Informática en la Universidad Complutense de Madrid, comprometido con el desarrollo de soluciones innovadoras y efectivas en el ámbito tecnológico. Mi enfoque en el aprendizaje y la aplicación de conocimientos está profundamente influenciado por mi curiosidad por comprender el funcionamiento de las cosas y el esfuerzo constante por mejorar en todas las áreas de mi vida, tanto académicas como personales.
+Soy estudiante de Ingeniería Informática en la Universidad Complutense de Madrid, comprometido con el desarrollo de soluciones innovadoras en el ámbito tecnológico. Mi enfoque en el aprendizaje y la aplicación de conocimientos está profundamente influenciado por mi curiosidad por comprender el funcionamiento de las cosas y el esfuerzo constante por mejorar en todas las áreas de mi vida, tanto académicas como personales.
 
 - 💻 Apasionado por la programación y la resolución de problemas complejos.
 - 🌐 Interesado en el desarrollo de software y la computación cuántica.
@@ -16,14 +16,14 @@ Soy estudiante de Ingeniería Informática en la Universidad Complutense de Madr
 
 ### Conocimientos y habilidades
 
-Actualmente, estoy finalizando mis estudios en Ingeniería Informática (24 créditos), donde he adquirido una sólida base en programación, algoritmos y estructuras de datos, así como en desarrollo de software y sistemas operativos. Mi formación se complementa con un profundo interés por la inteligencia artificial, la computación cuántica y el desarrollo de aplicaciones.
+Actualmente, estoy finalizando mis estudios en Ingeniería Informática, donde he adquirido una sólida base en programación, algoritmos y estructuras de datos, así como en desarrollo de software y sistemas operativos. Mi formación se complementa con un profundo interés por la inteligencia artificial, la computación cuántica y el desarrollo de aplicaciones.
 
 #### Lenguajes de Programación
 - 🚀 Conocimientos en **C**, **C++**, **Java** y **Python**.
-- 🌟 Experiencia en desarrollo de proyectos variados, desde aplicaciones de consola hasta aplicaciones sencillas.
+- 🌟 Experiencia en desarrollo de proyectos variados (aplicaciones de consola, aplicaciones sencillas, compiladores).
 
 #### Computación Cuántica
-- 🧠 Familiarizado con conceptos avanzados de computación cuántica.
+- 🧠 Familiarizado con conceptos intermedios de computación cuántica.
 - 💡 Prácticas realizadas con **Qiskit**, **Cirq**, **t|ket⟩** y **QDK**.
 - 🛠️ Capacidad para desarrollar algoritmos cuánticos y entender la implementación de circuitos cuánticos.
 
